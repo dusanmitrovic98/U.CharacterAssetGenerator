@@ -62,5 +62,5 @@ crashlytics-build.properties
 /Cute 2D Girl - Wizard
 
 # External Assets
-**/Wizard - 2D Character/
-# Wizard - 2D Character.meta
+/Wizard - 2D Character
+Wizard - 2D Character.meta
